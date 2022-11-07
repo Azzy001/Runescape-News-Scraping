@@ -1,4 +1,4 @@
-# for communicating with websites
+# for communicating with website
 import requests
 # for the extracting html content
 from bs4 import BeautifulSoup

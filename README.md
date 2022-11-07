@@ -29,4 +29,7 @@ You will need to import the following libraries via Command Line:
 
 Snips of the program.
 
-![:wink:](https://github.com/Azzy001/Vehicle_Sales_Tkinter/blob/main/path_location.png)
+![:trophy:](https://github.com/Azzy001/Runescape-News-Scraping/blob/master/Images/microsoft_visual_studio_cmd_view.png)
+
+
+![:trophy:](https://github.com/Azzy001/Runescape-News-Scraping/blob/master/Images/visual_studio_code_console_view.png)
